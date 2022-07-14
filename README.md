@@ -13,9 +13,9 @@
 
 - 🤝 I’m looking for help with **Discord bots and Minecraft plugins**
 
-- 👨‍💻 All of my projects are available at [github.com/4qron](github.com/4qron)
+- 👨‍💻 All of my projects are available at [github.com/4qron](https://github.com/4qron)
 
-- 💬 Ask me about **Anything relates to programming! I'm willing to help (if I know them :P)**
+- 💬 Ask me about **Anything relates to programming! I'm willing to help (if I know the answers :P)**
 
 - 📫 How to reach me **aaron.huang.sep.ten@gmail.com**
 
