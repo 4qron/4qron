@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 4qron</h1>
-<h3 align="center">A junior Java/Python developer from Taiwan.</h3>
+<h3 align="center">A junior Kotlin/Python developer from Taiwan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4qron&label=Profile%20views&color=0e75b6&style=flat" alt="4qron" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **shinomiya-bot**
 
-- 🌱 I’m currently learning **Java/Python**
+- 🌱 I’m currently learning **Kotlin/Python**
 
 - 🤝 I’m looking for help with **Discord bots and Minecraft plugins**
 
