@@ -7,10 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/4qron" target="blank"><img src="https://img.shields.io/twitter/follow/4qron?logo=twitter&style=for-the-badge" alt="4qron" /></a> </p>
 
-- 🔭 I’m currently working on **m Series - Minimalist Minecraft Plugins**
-- mBackpack - Nothing other than /backpack (soon)
-- mUI - Lightweight but Powerful Menus (soon)
-- mPerm - Simplest Permission Tool with no Extra Features (soon)
+- 🔭 I’m currently working on **四宮輝夜機器人 (Kaguya Discord Bot)**
 
 - 🌱 I’m currently learning **Kotlin/Python**
 
